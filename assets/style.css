@@ -1,0 +1,14 @@
+
+
+
+
+footer {
+
+	display: flex;
+	flex-direction: row;
+
+}
+
+footer div {
+	display: flex;
+}
