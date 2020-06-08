@@ -1,0 +1,216 @@
+.logo{
+    position: absolute;
+    width: 73px;
+    height: 64px;
+    left: 100px;
+    top: 20px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 64px;
+    list-style: none;
+    color: #0D3644;
+}
+a{text-decoration: none;}
+.home{
+    position: absolute;
+    width: 45px;
+    height: 24px;
+    left: 625px;
+    top: 27px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    list-style: none;
+    color: #0D3644;
+}
+.rooms{
+    position: absolute;
+    width: 128px;
+    height: 24px;
+    left: 718px;
+    top: 27px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    list-style: none;
+    color: #0D3644;
+}
+.facilities{position: absolute;
+    width: 66px;
+    height: 24px;
+    left: 894px;
+    top: 27px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    list-style: none;
+    color: #0D3644;
+}
+   .contact{ position: absolute;
+    width: 81px;
+    height: 24px;
+    left: 1008px;
+    top: 27px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    list-style: none;
+    color: #0D3644;}
+    .resting{
+        position: absolute;
+        width: 422px;
+        height: 128px;
+        left: 100px;
+        top: 395px;
+        font-family: Playfair Display;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 48px;
+        line-height: 64px;
+        color: #0D3644
+    }
+    .view{
+        position: absolute;
+        width: 715px;
+        height: 840px;
+        left: 625px;
+        top: 120px;
+    }
+    .play{
+        position: absolute;
+        width: 32px;
+        height: 32px;
+        left: 996px;
+        top: 527px;
+    }
+    .quote{
+        position: absolute;
+        width: 351px;
+        height: 48px;
+        left: 100px;
+        top: 581px;
+        font-family: Muli;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 24px;
+        color: #0D3644;
+    }
+    
+    .rect1{
+        position: absolute;
+        width: 66px;
+        height: 24px;
+        left: 99px;
+        top: 928px;
+        font-family: Muli;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 24px;
+        list-style: none;
+        color: #0D3644;
+    }
+    .rect2{
+        position: absolute;
+        width: 69px;
+        height: 24px;
+        left: 358px;
+        top: 928px;
+        font-family: Muli;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 24px;
+        list-style: none;
+        color: #0D3644;
+    }
+    .rect3{position: absolute;
+    width: 49px;
+    height: 24px;
+    left: 617px;
+    top: 928px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    list-style: none;
+    color: #0D3644;}
+    .arrival{
+        position: absolute;
+    width: 119px;
+    height: 24px;
+    left: 99px;
+    top: 960px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0D3644;}
+
+    .depart{
+     position: absolute;
+    width: 119px;
+    height: 24px;
+    left: 358px;
+    top: 960px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0D3644;}
+    .number{
+     position: absolute;
+    width: 40px;
+    height: 24px;
+    left: 617px;
+    top: 960px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0D3644;}
+    .submit{
+        position: absolute;
+        width: 85px;
+        height: 24px;
+        left: 858px;
+        top: 944px;
+        font-family: Muli;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 12px;
+        line-height: 24px;
+        color: white
+        
+    }
+    .holder{
+        position: absolute;
+        width: 195px;
+        height: 64px;
+        left: 800px;
+        top: 924px;
+        background: #F6AE2D;
+    }
+
+    .rect{
+        position: absolute;
+        width: 1030px;
+        height: 140px;
+        left:0px;
+        top: 886px;
+        background: #F7F7F7;}
