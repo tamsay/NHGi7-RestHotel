@@ -1,0 +1,441 @@
+.logo{
+    position: absolute;
+    width: 73px;
+    height: 64px;
+    left: 100px;
+    top: 20px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 64px;
+    list-style: none;
+    color: #0D3644;
+}
+a{text-decoration: none;
+color: rgba(13,54,68,0.6);}
+.home{
+    position: absolute;
+    width: 45px;
+    height: 24px;
+    left: 625px;
+    top: 27px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    list-style: none;
+    color: #0D3644;
+}
+.rooms{
+    position: absolute;
+    width: 128px;
+    height: 24px;
+    left: 718px;
+    top: 27px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    list-style: none;
+    color: #0D3644;
+}
+.facilities{position: absolute;
+    width: 66px;
+    height: 24px;
+    left: 894px;
+    top: 27px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    list-style: none;
+    color: #0D3644;
+}
+   .contact{ position: absolute;
+    width: 81px;
+    height: 24px;
+    left: 1008px;
+    top: 27px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    list-style: none;
+    color: #0D3644;}
+    .resting{
+        position: absolute;
+        width: 422px;
+        height: 128px;
+        left: 100px;
+        top: 395px;
+        font-family: Playfair Display;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 48px;
+        line-height: 64px;
+        color: #0D3644
+    }
+    .label{
+        position: absolute;
+        width: 340px;
+        height: 64px;
+        left: 100px;
+        top: 379px;
+        font-family: Playfair Display;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 48px;
+        line-height: 64px;
+        color: #0D3644
+    }
+    .label1{
+        position: absolute;
+        width: 815px;
+        height: 410px;
+        left: 625px;
+        top: 120px;
+    }
+    .pitch{
+        position: absolute;
+        width: 715px;
+        height: 144px;
+        left: 205px;
+        top: 699px;
+        font-family: Muli;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 24px;
+        color: #0D3644
+    }
+    
+        .standard{
+            position: absolute;
+            width: 505px;
+            height: 620px;
+            left: 205px;
+            top: 963px;
+            background: url("image/standard.png");
+        }
+        .book{
+            position: absolute;
+            width: 73px;
+            height: 24px;
+            left: 553px;
+            top: 1026px;
+            font-family: Lato;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 24px;
+            color: white;
+            }
+        .srect{
+            position: absolute;
+            width: 145px;
+            height: 54px;
+            left: 513px;
+            top: 1021px;
+            border: 1px solid white;
+            box-sizing: border-box;}
+            .title{
+                position: absolute;
+                width: 173px;
+                height: 44px;
+                left: 253px;
+                top: 1467px;
+                font-family: Playfair Display;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 24px;
+                line-height: 44px;
+                color: #ffffff;
+            }
+            .price{
+                position: absolute;
+                width: 68px;
+                height: 24px;
+                left: 253px;
+                top: 1511px;
+                font-family: Lato;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 12px;
+                line-height: 24px;
+                color: #ffffff;
+            }
+            .vector{
+                position: absolute;
+                width: 3.33px;
+                height: 7.5px;
+                left: 324px;
+                top: 1514px;
+                border: 1px solid white
+            }
+            .night{
+                position: absolute;
+                width: 31px;
+                height: 24px;
+                left: 333px;
+                top: 1511px;
+                font-family: Muli;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 12px;
+                line-height: 24px;
+                color: rgba(255,255,255,0.6); 
+            }
+            .silver{
+                position: absolute;
+                width: 506px;
+                height: 621px;
+                left: 730px;
+                top: 962px;
+                background: url("image/silver.png");
+            }
+            .book2{
+                position: absolute;
+                width: 73px;
+                height: 24px;
+                left: 1079px;
+                top: 1026px;
+                font-family: Lato;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 14px;
+                line-height: 24px;
+                color: white;
+                }
+            .srect2{
+                position: absolute;
+                width: 145px;
+                height: 54px;
+                left: 1043px;
+                top: 1021px;
+                border: 1px solid white;
+                box-sizing: border-box;}
+                .title2{
+                    position: absolute;
+                    width: 135px;
+                    height: 44px;
+                    left: 778px;
+                    top: 1467px;
+                    font-family: Playfair Display;
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 24px;
+                    line-height: 44px;
+                    color: #ffffff;
+                }
+                .price2{
+                    position: absolute;
+                    width: 68px;
+                    height: 24px;
+                    left: 778px;
+                    top: 1511px;
+                    font-family: Lato;
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 12px;
+                    line-height: 24px;
+                    color: #ffffff;
+                }
+                .vector2{
+                    position: absolute;
+                    width: 3.33px;
+                    height: 7.5px;
+                    left: 849px;
+                    top: 1514px;
+                    border: 1px solid white
+                }
+                .night2{
+                    position: absolute;
+                    width: 31px;
+                    height: 24px;
+                    left: 858px;
+                    top: 1511px;
+                    font-family: Muli;
+                    font-style: normal;
+                    font-weight: 600;
+                    font-size: 12px;
+                    line-height: 24px;
+                    color: rgba(255,255,255,0.6); 
+                }
+                .gold{
+                    position: absolute;
+                    width: 1030px;
+                    height: 511px;
+                    left: 205px;
+                    top: 1602px;
+                    background: url("image/gold.png");
+                }
+                .book3{
+                    position: absolute;
+                    width: 73px;
+                    height: 24px;
+                    left: 1078px;
+                    top: 1658px;
+                    font-family: Lato;
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 14px;
+                    line-height: 24px;
+                    color: white;
+                    }
+                .srect3{
+                    position: absolute;
+                    width: 145px;
+                    height: 54px;
+                    left: 1042px;
+                    top: 1650px;
+                    border: 1px solid white;
+                    box-sizing: border-box;}
+                    .title3{
+                        position: absolute;
+                        width: 124px;
+                        height: 44px;
+                        left: 253px;
+                        top: 1997px;
+                        font-family: Playfair Display;
+                        font-style: normal;
+                        font-weight: bold;
+                        font-size: 24px;
+                        line-height: 44px;
+                        color: #ffffff;
+                    }
+                    .price3{
+                        position: absolute;
+                        width: 75px;
+                        height: 24px;
+                        left: 253px;
+                        top: 2041px;
+                        font-family: Lato;
+                        font-style: normal;
+                        font-weight: bold;
+                        font-size: 12px;
+                        line-height: 24px;
+                        color: #ffffff;
+                    }
+                    .vector3{
+                        position: absolute;
+                        width: 3.33px;
+                        height: 7.5px;
+                        left: 333px;
+                        top: 2045px;
+                        border: 1px solid white
+                    }
+                    .night3{
+                        position: absolute;
+                        width: 31px;
+                        height: 24px;
+                        left: 341px;
+                        top: 2041px;
+                        font-family: Muli;
+                        font-style: normal;
+                        font-weight: 600;
+                        font-size: 12px;
+                        line-height: 24px;
+                        color: rgba(255,255,255,0.6); 
+                    }
+            .rect2{
+                position: absolute;
+                width: 1439px;
+                left: 0px;
+                top: 2212px;
+                background: rgba(243,243,243,0.37);
+            }
+            .signup{
+                position: absolute;
+                width: 281px;
+                height: 44px;
+                left: 580px;
+                top: 2282px;
+                font-family: Playfair Display;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 32px;
+                line-height: 44px;
+                color: #0D3644;
+            }
+            .quot{
+                position: absolute;
+                width: 610px;
+                height: 48px;
+                left: 415px;
+                top: 2358px;
+                font-family: Muli;
+                font-style: normal;
+                font-weight: 300;
+                font-size: 16px;
+                line-height: 24px;
+                text-align: center;
+                color: #0D3644;
+            }
+            .box{
+                position: absolute;
+                width: 195px;
+                height: 64px;
+                left: 625px;
+                top: 2452px;
+                background: #F6AE2D;
+            }
+            .now{
+                position: absolute;
+                width: 79px;
+                height: 24px;
+                left: 681px;
+                top: 2458px;
+                font-family: Muli;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 16px;
+                line-height: 24px;
+                text-align: center;
+                color: white;
+            }
+    .logo2{
+        position: absolute;
+        width: 73px;
+        height: 64px;
+        left: 100px;
+        top: 2613px;
+        font-family: Playfair Display;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 32px;
+        line-height: 64px;
+        color: #0D3644;
+    }
+    .right{
+        position: absolute;
+        width: 167px;
+        height: 24px;
+        left: 637px;
+        top: 2633px;
+        font-family: Muli;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+        text-align: center;
+        color: #0D3644;
+    }
+    .address{
+        position: absolute;
+        width: 223px;
+        height: 24px;
+        left: 1120px;
+        top: 2633px;
+        font-family: Muli;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+        text-align: center;
+        color: #0D3644;
+    }
