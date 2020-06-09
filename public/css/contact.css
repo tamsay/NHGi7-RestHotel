@@ -2,14 +2,14 @@
     font-family: 'Muli Regular';
     font-style: normal;
     font-weight: normal;
-    src: local('Muli Regular'), url('Muli-Regular.woff') format('woff');
+    src: local('Muli Regular'), url('../lib/Muli-Regular.woff') format('woff');
   }
   
   @font-face {
     font-family: 'Playfair Display';
     font-style: normal;
     font-weight: normal;
-    src: local('Playfair Display'), url('playfair-display-v20-latin-regular.woff') format('woff');
+    src: local('Playfair Display'), url('../lib/playfair-display-v20-latin-regular.woff') format('woff');
   }
 body{
     display: flex;
